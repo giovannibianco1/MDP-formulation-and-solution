@@ -1,3 +1,5 @@
+#Markov Decision Processes Applications
+
 As part of my Reinforcement Learning course, I had the opportunity to model two real-world scenarios as Finite Markov Decision Processes (MDPs): safety in autonomous driving 🚗💨 and autonomous stock trading 📈💡.
 
 I started with a brief introduction to MDPs, a fundamental concept in any RL algorithm 🤖, before designing each scenario from scratch. This involved identifying states, transition probabilities, and reward structures 🎯. I then applied value iteration and policy iteration algorithms to find the optimal policies, followed by an in-depth analysis of the results 📊.
