@@ -1,4 +1,4 @@
-#Markov Decision Processes Applications
+# Markov Decision Processes Applications
 
 As part of my Reinforcement Learning course, I had the opportunity to model two real-world scenarios as Finite Markov Decision Processes (MDPs): safety in autonomous driving 🚗💨 and autonomous stock trading 📈💡.
 
